@@ -1,0 +1,1 @@
+. "/root/codes/SmartMQ/broker/build/Release/generators/conanrunenv-release-x86_64.sh"

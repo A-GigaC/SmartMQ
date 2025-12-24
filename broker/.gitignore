@@ -1,0 +1,8 @@
+*.cmake
+.vscode
+build/
+CMaleFiles
+CMakeCache.txt
+Makefile
+*.broker
+CMakeUserPresets.json
