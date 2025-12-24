@@ -1,0 +1,8 @@
+queues:
+  - name: "HighPriorityQueue"
+    durability: "disk"
+    order: "FIFO"
+    message_ttl: 300
+  - name: "LogsQueue"
+    durability: "memory"
+    order: "NO"

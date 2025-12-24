@@ -5,4 +5,4 @@ cmake -DCMAKE_TOOLCHAIN_FILE=build/Release/generators/conan_toolchain.cmake -DCM
 
 cmake --build .
 
-./SmartMQ.broker
+./SmartMQ.broker broker-config.example.yaml
