@@ -39,3 +39,19 @@
 
 # debug information files
 *.dwo
+
+#CMake
+*CMakeFiles
+*build
+*.cmake
+*CMakeCache.txt
+*CMakeUserPresets.json
+*Makefile
+*compile_commands.json
+
+#vscode
+*.vscode
+
+# executables and libs
+*.broker
+*.client-lib
